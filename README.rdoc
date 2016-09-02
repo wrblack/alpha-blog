@@ -8,10 +8,10 @@ It is a complete blogging sites with the ability to create users, user authentic
 * System dependencies: At least Rails 5.0+  
 
 * Database creation and initialization
-** rails db:migrate or rake db:migrate
+> rails db:migrate or rake db:migrate
 
 * How to run the test suite  
-** rails test
+> rails test
 
 * Deployment instructions  
-** Include the PostGres gem for deployment on Heroku.
+> Include the PostGres gem for deployment on Heroku.
